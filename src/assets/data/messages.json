@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "sender": "John Doe",
+      "text": "Your test results are ready.",
+      "timestamp": "2024-08-04T00:00:00.000Z",
+      "isOnline": true,
+      "unreadCount": 0
+    },
+    {
+      "id": 2,
+      "sender": "Jane Smith",
+      "text": "Appointment confirmed for 2024-08-15.",
+      "timestamp": "2024-08-03T00:00:00.000Z",
+      "isOnline": false,
+      "unreadCount": 2
+    },
+    {
+      "id": 3,
+      "sender": "Emily Johnson",
+      "text": "Can we reschedule our meeting?",
+      "timestamp": "2024-08-01T00:00:00.000Z",
+      "isOnline": true,
+      "unreadCount": 0
+    },
+    {
+      "id": 4,
+      "sender": "Michael Brown",
+      "text": "Please call me back.",
+      "timestamp": "2024-07-25T00:00:00.000Z",
+      "isOnline": false,
+      "unreadCount": 1
+    },
+    {
+      "id": 5,
+      "sender": "Michael Brown",
+      "text": "Please call me back.",
+      "timestamp": "2024-07-25T00:00:00.000Z",
+      "isOnline": false,
+      "unreadCount": 1
+    },
+    {
+      "id": 7,
+      "sender": "Michael Brown",
+      "text": "Please call me back.",
+      "timestamp": "2024-07-25T00:00:00.000Z",
+      "isOnline": false,
+      "unreadCount": 1
+    }
+  ]
+  

@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Buddy", "type": "Overdue", "date": "2023-12-01", "veterinarian": null },
+    { "id": 2, "name": "Max", "type": "Core", "date": "2023-11-15", "veterinarian": "Dr. Johnson" },
+    { "id": 3, "name": "Bella", "type": "Noncore", "date": "2024-01-10", "veterinarian": "Dr. Brown" },
+    { "id": 4, "name": "Lucy", "type": "Core", "date": "2024-02-20", "veterinarian": "Dr. White" },
+    { "id": 5, "name": "Charlie", "type": "Overdue", "date": "2024-03-05", "veterinarian": "Dr. Black" },
+    { "id": 6, "name": "Daisy", "type": "Noncore", "date": "2024-04-12", "veterinarian": "Dr. Green" }
+]
+  
