@@ -1,4 +1,4 @@
-# challenge
+# Vue Dashboard
 
 ## Project setup
 ```
@@ -23,6 +23,7 @@ pnpm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## Preview images
 
 ![login](/images/login.jpeg)
 
